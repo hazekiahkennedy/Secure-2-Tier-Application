@@ -60,7 +60,7 @@ By completing this lab, you will:
 
 - **Resource Group:**
 ```
-rg-lab02-[yourname]
+rg-lab02-[yourname] (e.g rg-lab02-hazekiah)
 ```
 
 - **VNet Name:**
@@ -101,7 +101,7 @@ vm-db-01
 ### Basics:
 - Resource Group:
 ```
-rg-lab02-[yourname]
+rg-lab02-[yourname] (e.g rg-lab02-hazekiah)
 ```
 - Name: `vnet-lab02`  
 - Region: `East US`  
@@ -133,7 +133,7 @@ Click **Review + create → Create**
 ### Basics:
 - Resource Group:
 ```
-rg-lab02-[yourname]
+rg-lab02-[yourname] (e.g rg-lab02-hazekiah)
 ```
 - Name: `vm-web-01`  
 - Region: `East US`  
@@ -159,7 +159,7 @@ Download your `.pem` key if prompted
 ### Basics:
 - Resource Group:
 ```
-rg-lab02-[yourname]
+rg-lab02-[yourname] (e.g rg-lab02-hazekiah)
 ```
 - Name: `vm-db-01`  
 - Region: `East US`  
